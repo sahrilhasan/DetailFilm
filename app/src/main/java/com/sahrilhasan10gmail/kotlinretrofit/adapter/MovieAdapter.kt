@@ -10,6 +10,7 @@ import android.view.ViewGroup
 import com.sahrilhasan10gmail.kotlinretrofit.DetailFilmActivity
 import com.sahrilhasan10gmail.kotlinretrofit.R
 import com.sahrilhasan10gmail.kotlinretrofit.glide.GlideApp
+import com.sahrilhasan10gmail.kotlinretrofit.glide.NewAppGlide
 import com.sahrilhasan10gmail.kotlinretrofit.model.Result
 import kotlinx.android.synthetic.main.listmovieitem.view.*
 import retrofit2.http.Url
